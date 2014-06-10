@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">ImageRetriever</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_app">ImageRet</string>
+    <string name="logo_descripcion">Logo de la App</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="guardar_pass">Guardar contraseña</string>
+    <string name="boton_iniciar">Ingresar</string>
+    <string name="title_activity_query">Consulta</string>
+    <string name="cabello">Cabello</string>
+    <string name="piel">Piel</string>
+    <string name="forma">Forma</string>
+    <string name="color">Color</string>
+    <string name="tinte">Tinte</string>
+    <string name="cara">Cara</string>
+    <string name="tamano">Tamaño</string>
+    <string name="grupo_racial">Grupo racial</string>
+    <string name="nariz">Nariz</string>
+    <string name="ojos">Ojos</string>
+    <string name="tipo">Tipo</string>
+    <string name="enviarBoton">Enviar</string>
+    <string name="listaPersonas">Lista de Personas</string>
+    <string-array name="cabello_tamanio">
+        <item >corto</item>
+        <item >largo</item>
+    </string-array>
+    <string-array name="cabello_forma">
+        <item >crespo</item>
+        <item >lacio</item>
+    </string-array>
+    <string-array name="cabello_color">
+        <item >negro</item>
+        <item >castaño</item>
+    </string-array>
+    <string-array name="piel_color">
+        <item >blanco</item>
+        <item >moreno</item>
+    </string-array>
+    <string-array name="ojo_color">
+        <item >verde</item>
+        <item >oscuro</item>
+    </string-array>
+
+</resources>
